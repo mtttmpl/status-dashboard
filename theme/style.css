@@ -1,0 +1,41 @@
+#wrapper {
+	width: 857px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header {
+	width: 857px;
+}
+
+#content {
+	width: 857px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#overview th {
+	background-color: #f0f0f0;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#overview td {
+	text-align: center;
+}
+
+#service {
+	width: 200px;
+}
+
+#date {
+	width: 75px;
+}
+
+#full-history {
+	width: 100px;
+}
+
+#footer {
+	width: 857px;
+}
