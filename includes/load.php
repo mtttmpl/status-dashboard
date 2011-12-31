@@ -15,5 +15,5 @@ if(!$sd_db_select) {
 }
 
 // load functions
-require_once("includes/functions.php");
+require_once("functions.php");
 ?>
